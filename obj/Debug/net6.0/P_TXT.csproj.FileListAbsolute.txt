@@ -1,0 +1,15 @@
+C:\Users\eletr\Desktop\P_TXT\bin\Debug\net6.0\P_TXT.exe
+C:\Users\eletr\Desktop\P_TXT\bin\Debug\net6.0\P_TXT.deps.json
+C:\Users\eletr\Desktop\P_TXT\bin\Debug\net6.0\P_TXT.runtimeconfig.json
+C:\Users\eletr\Desktop\P_TXT\bin\Debug\net6.0\P_TXT.dll
+C:\Users\eletr\Desktop\P_TXT\bin\Debug\net6.0\P_TXT.pdb
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.csproj.AssemblyReference.cache
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.AssemblyInfoInputs.cache
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.AssemblyInfo.cs
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.csproj.CoreCompileInputs.cache
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.dll
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\refint\P_TXT.dll
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.pdb
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\P_TXT.genruntimeconfig.cache
+C:\Users\eletr\Desktop\P_TXT\obj\Debug\net6.0\ref\P_TXT.dll
